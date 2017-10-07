@@ -80,6 +80,6 @@ Last Name:
 - 返回文件内容给浏览器
 
 
-##### [查看源码](src/main/java/ex/ch01)
+##### [查看源码](../../java/ex/ch01)
 
 源码由3个类完成，HttpServer是入口类，负责启动服务器，调用Request类解析URI，调用Response发送响应消息。
